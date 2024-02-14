@@ -2,6 +2,9 @@
 
 This repository contains the source code for a ride-sharing web app developed using React JS, Next JS, Clerk for authentication, and Material UI for building UI elements.
 
+# Video Link:- 
+https://drive.google.com/file/d/1PjYE2g0cnYDHEibxveSBOBWW2xV4Vxs_/view?usp=drive_link
+
 # 🌟 Features:
 - User Authentication: Utilizes Clerk for secure user authentication, ensuring a seamless and safe login experience.
 - Intuitive UI Design: Built with Material UI, offering a sleek and responsive user interface that enhances user interaction.
